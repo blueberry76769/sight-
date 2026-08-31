@@ -1,0 +1,10 @@
+*.xcodeproj/
+build/
+DerivedData/
+*.p12
+*.p8
+*.cer
+*.certSigningRequest
+*.mobileprovision
+ExportOptions.plist
+.DS_Store
